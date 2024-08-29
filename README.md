@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning Unity/C#/Python/HTML5/CSS3/JS/
+- 🌱 I’m currently learning C#/Python/HTML5/CSS3/JS/
 - 👀 I’m interested in Game development and AI stuff
 - 📫 How to reach me: IG: @italo.lverde / email: italolverde3@gmail.com
 
