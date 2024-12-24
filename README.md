@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning C#/Python/HTML5/CSS3/JS/
-- 👀 I’m interested in Game development and AI stuff
+- 🌱 I’m currently learning Python/Flask/HTML5/CSS3/JS/
+- 👀 I’m interested in Game development and Web development
 - 📫 How to reach me: IG: @italo.lverde / email: italolverde3@gmail.com
 
 
