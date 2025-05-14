@@ -21,5 +21,7 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"></a> 
   <a href="https://mysql.com"><img style="width:50px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png"/></a>
   <a href="https://www.sqlite.org"><img style="width:50px" src="https://officeforest.org/wp/wp-content/uploads/2019/05/256px-Sqlite-square-icon.svg_-200x200.png"/></a>  
+  <a href="https://react.dev"><img style="width:50px" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png"/></a>
+
 </div>
 
