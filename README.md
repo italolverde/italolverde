@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <!-- - Brasileiro <img style="width:20px;" src="https://github.com/user-attachments/assets/3c6802f5-9bca-4ea0-94f2-f97365ce4395"> -->
 
-### Minhas Formações
+## Minhas Formações
 
 - Técnico em Informática para Internet pelo IFRN - CA
 
