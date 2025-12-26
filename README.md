@@ -8,10 +8,10 @@
 Here are some ideas to get you started:
 -->
 
-- I am from Brazil <img style="width:20px;" src="https://github.com/user-attachments/assets/3c6802f5-9bca-4ea0-94f2-f97365ce4395"> 
-- Web development student at IFRN-CA
+<!-- - Brasileiro <img style="width:20px;" src="https://github.com/user-attachments/assets/3c6802f5-9bca-4ea0-94f2-f97365ce4395"> -->
+- Técnico em Informática para Internet pelo IFRN - CA
 
-## Tools that I currently study
+## Tecnologias que estudo
 
 <div> 
   <a href="https://python.org"><img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/></a>
