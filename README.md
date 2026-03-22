@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - Técnico em Informática para Internet pelo IFRN - CA
 
 ## Tecnologias que estudo
-
 <div> 
   <a href="https://python.org"><img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/></a>
-  <a href=https://flask.palletsprojects.com/en/stable/><img style="width:50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmodB0KyI7LsMskShiJJO_k_K9x16Ix-BUdA&s"></a>             
+  <a href=https://flask.palletsprojects.com/en/stable/><img style="width:50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmodB0KyI7LsMskShiJJO_k_K9x16Ix-BUdA&s"></a>   
+  <a href=https://flask.palletsprojects.com/en/stable/><img style="width:50px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"></a> 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"></a> 
